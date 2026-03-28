@@ -449,3 +449,120 @@
 > **7. Memory tips | Mẹo ghi nhớ**
 > * Think of "crip" as short for "cripple" — meaning severe damage or disablement (use cautiously).
 
+---
+
+14. figure out (ˈfɪɡ.ər aʊt | Phát âm)
+
+> **0. Level | Trình độ**
+> * B1 — Very common in daily English for “understand/solve”
+>
+> **1. Meaning | Nghĩa**
+> * (phr v) hiểu ra, nhận ra — to understand something after thinking
+> * (phr v) tìm ra (cách/giải pháp) — to find an answer or solution
+>
+> **2. Example | Ví dụ**
+> * I finally figured out how to use this app. — Cuối cùng tôi cũng hiểu cách dùng ứng dụng này.
+> * We need to figure out a better plan. — Chúng ta cần tìm ra một kế hoạch tốt hơn.
+>
+> **3. Word family | Họ từ (table)**
+> | Word | Part of Speech | Meaning (Vietnamese) |
+> |---|---:|---|
+> | figure out | phrasal verb | hiểu ra; tìm ra (giải pháp) |
+> | figure | verb / noun | hình dung, cho là; con số / hình dáng |
+> | figure something out | phrase | hiểu/tìm ra điều gì |
+>
+> **4. Collocations | Cụm từ thường đi với**
+> * figure out how/why/what — hiểu/tìm ra cách/lý do/cái gì
+> * figure out the answer/solution — tìm ra câu trả lời/giải pháp
+> * can’t figure it out — không thể hiểu/tìm ra
+> * figure things out — giải quyết/hiểu rõ mọi thứ
+>
+> **5. Synonyms | Từ đồng nghĩa**
+> * work out — tìm ra, giải được
+> * understand — hiểu
+> * solve — giải quyết
+>
+> **6. Distinction | Phân biệt nhanh**
+> * `figure out` vs `find out`: `figure out` = hiểu/giải sau khi suy nghĩ; `find out` = biết được thông tin (thường do nghe/đọc).
+>
+> **7. Memory tips | Mẹo ghi nhớ**
+> * “Figure” = hình dung → “figure out” = hình dung ra được → hiểu ra.
+
+---
+
+15. harness (ˈhɑː.nɪs | Phát âm)
+
+> **0. Level | Trình độ**
+> * C1 — Common in formal/technical contexts (energy, resources), also everyday for equipment
+>
+> **1. Meaning | Nghĩa**
+> * (v) tận dụng, khai thác — to control and use something (power/resources) effectively
+> * (n) bộ dây đai/dây cương — straps used to control an animal or to fasten something safely
+>
+> **2. Example | Ví dụ**
+> * We can harness solar energy to cut costs. — Chúng ta có thể khai thác năng lượng mặt trời để giảm chi phí.
+> * Always wear a safety harness when working at height. — Luôn đeo dây an toàn khi làm việc trên cao.
+>
+> **3. Word family | Họ từ (table)**
+> | Word | Part of Speech | Meaning (Vietnamese) |
+> |---|---:|---|
+> | harness | verb / noun | tận dụng; bộ dây đai/dây cương |
+> | harnessing | noun / gerund | việc khai thác, tận dụng |
+> | harnessed | adjective | được khai thác/được kiểm soát để sử dụng |
+>
+> **4. Collocations | Cụm từ thường đi với**
+> * harness the power of — khai thác sức mạnh của
+> * harness energy/resources — khai thác năng lượng/nguồn lực
+> * harness potential/talent — phát huy tiềm năng/tài năng
+> * safety harness — dây/bộ đai an toàn
+>
+> **5. Synonyms | Từ đồng nghĩa**
+> * utilize — tận dụng
+> * leverage — tận dụng (lợi thế/nguồn lực)
+> * make use of — sử dụng
+>
+> **6. Distinction | Phân biệt nhanh**
+> * `harness` vs `use`: `harness` nhấn mạnh “kiểm soát + dùng hiệu quả” (đặc biệt với năng lượng/nguồn lực).
+>
+> **7. Memory tips | Mẹo ghi nhớ**
+> * Hình dung “đeo harness” để kiểm soát và giữ an toàn → `harness` = kiểm soát để dùng.
+
+---
+
+16. preliminary (prɪˈlɪm.ɪ.nər.i | Phát âm)
+
+> **0. Level | Trình độ**
+> * B2 — Common in academic/work contexts (reports, checks, results)
+>
+> **1. Meaning | Nghĩa**
+> * (adj) sơ bộ, ban đầu — happening before the main event or final decision
+> * (n, usually plural) preliminaries — thủ tục/việc chuẩn bị ban đầu
+>
+> **2. Example | Ví dụ**
+> * Preliminary results suggest the new method works. — Kết quả sơ bộ cho thấy phương pháp mới có hiệu quả.
+> * Let’s do some preliminaries before we start. — Hãy làm vài việc chuẩn bị trước khi bắt đầu.
+>
+> **3. Word family | Họ từ (table)**
+> | Word | Part of Speech | Meaning (Vietnamese) |
+> |---|---:|---|
+> | preliminary | adjective / noun | sơ bộ; (pl) việc chuẩn bị ban đầu |
+> | preliminaries | plural noun | thủ tục/khâu chuẩn bị ban đầu |
+> | preliminarily | adverb | một cách sơ bộ, ban đầu |
+>
+> **4. Collocations | Cụm từ thường đi với**
+> * preliminary results — kết quả sơ bộ
+> * preliminary report — báo cáo sơ bộ
+> * preliminary investigation/check — điều tra/kiểm tra sơ bộ
+> * preliminary meeting — cuộc họp ban đầu
+>
+> **5. Synonyms | Từ đồng nghĩa**
+> * initial — ban đầu
+> * early — sớm, lúc đầu
+> * preparatory — mang tính chuẩn bị
+>
+> **6. Distinction | Phân biệt nhanh**
+> * `preliminary` vs `initial`: `initial` = cái đầu tiên; `preliminary` = làm trước để chuẩn bị (chưa phải kết luận cuối).
+>
+> **7. Memory tips | Mẹo ghi nhớ**
+> * “Pre-” = trước + “-lim” (giới hạn) → trước khi tới phần chính/kết luận.
+
