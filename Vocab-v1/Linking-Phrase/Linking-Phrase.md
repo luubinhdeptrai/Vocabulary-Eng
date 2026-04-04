@@ -1,177 +1,277 @@
-# 🔗 Common English Linking Phrases (Top 50 + Examples)
+# 🔗 Linking Phrases with Synonyms + Examples
 
-## ⭐️ Tier 1 – Everyday MUST-KNOW
+## ⭐ Tier 1 – Everyday MUST-KNOW
 
 1. From now on – Từ nay về sau  
-→ From now on, I will wake up early. (Từ nay về sau, tôi sẽ dậy sớm)
+Synonyms: From this point on, Going forward  
+
+→ From now on, I will study every day.  
+(Từ nay về sau tôi sẽ học mỗi ngày)
+
+→ From this point on, we need to be more careful.  
+(Từ thời điểm này trở đi, chúng ta cần cẩn thận hơn)
+
+→ Going forward, the company will change its strategy.  
+(Từ nay về sau, công ty sẽ thay đổi chiến lược)
+
+---
 
 2. At the same time – Đồng thời  
-→ I want to earn money, but at the same time, I want to enjoy life. (Tôi muốn kiếm tiền nhưng đồng thời cũng muốn tận hưởng cuộc sống)
+Synonyms: Simultaneously, Meanwhile  
+
+→ I want to work and study at the same time.  
+(Tôi muốn vừa làm vừa học)
+
+→ The system updates simultaneously across all devices.  
+(Hệ thống cập nhật đồng thời trên mọi thiết bị)
+
+→ He was studying. Meanwhile, his friends were playing.  
+(Anh ấy đang học, trong khi đó bạn anh đang chơi)
+
+---
 
 3. For example – Ví dụ  
-→ You should eat more vegetables, for example, broccoli and carrots. (Bạn nên ăn nhiều rau hơn, ví dụ như bông cải và cà rốt)
+Synonyms: For instance, Such as  
 
-4. For instance – Chẳng hạn  
-→ Some countries, for instance Japan, have very efficient public transport. (Một số nước, chẳng hạn như Nhật, có giao thông công cộng rất hiệu quả)
+→ You should eat healthy food, for example, vegetables.  
+(Bạn nên ăn đồ lành mạnh, ví dụ rau)
 
-5. In fact – Thực tế là  
-→ I thought it was hard. In fact, it was quite easy. (Tôi nghĩ nó khó, thực tế thì khá dễ)
+→ Some countries, for instance Japan, are very developed.  
+(Một số nước, chẳng hạn Nhật, rất phát triển)
 
-6. Of course – Tất nhiên  
-→ Of course, I will help you with this task. (Tất nhiên, tôi sẽ giúp bạn việc này)
-
-7. As a result – Kết quả là  
-→ He didn’t study. As a result, he failed the exam. (Anh ấy không học, kết quả là rớt)
-
-8. So – Vì vậy  
-→ I was tired, so I went to bed early. (Tôi mệt nên đi ngủ sớm)
-
-9. Because of that – Vì điều đó  
-→ He was late. Because of that, we missed the meeting. (Anh ấy trễ, vì vậy chúng tôi lỡ cuộc họp)
-
-10. That's why – Đó là lý do tại sao  
-→ I love English. That's why I practice every day. (Tôi thích tiếng Anh, đó là lý do tôi luyện mỗi ngày)
+→ I like fruits such as apples and bananas.  
+(Tôi thích trái cây như táo và chuối)
 
 ---
 
-## ⭐️ Tier 2 – Basic connectors
+4. In fact – Thực tế là  
+Synonyms: Actually, As a matter of fact  
+
+→ I thought it was hard. In fact, it was easy.  
+(Tôi nghĩ khó, thực tế thì dễ)
+
+→ Actually, I don’t agree with that idea.  
+(Thực ra tôi không đồng ý)
+
+→ As a matter of fact, he already knew the answer.  
+(Thực tế là anh ấy đã biết câu trả lời)
+
+---
+
+5. Of course – Tất nhiên  
+Synonyms: Certainly, Sure  
+
+→ Of course, I will help you.  
+(Tất nhiên tôi sẽ giúp)
+
+→ Certainly, we can solve this problem.  
+(Chắc chắn chúng ta giải được)
+
+→ Sure, no problem!  
+(Chắc chắn rồi, không vấn đề)
+
+---
+
+6. As a result – Kết quả là  
+Synonyms: Therefore, Consequently  
+
+→ He didn’t study. As a result, he failed.  
+(Anh ấy không học nên rớt)
+
+→ He was careless. Therefore, he made mistakes.  
+(Anh ấy bất cẩn nên mắc lỗi)
+
+→ It rained heavily. Consequently, the match was canceled.  
+(Mưa lớn nên trận bị hủy)
+
+---
+
+7. So – Vì vậy  
+Synonyms: Therefore, That’s why  
+
+→ I was tired, so I went to bed.  
+(Tôi mệt nên đi ngủ)
+
+→ It was late, therefore we left early.  
+(Trời muộn nên chúng tôi về)
+
+→ I was busy. That’s why I couldn’t come.  
+(Tôi bận nên không đến được)
+
+---
+
+8. Because of that – Vì điều đó  
+Synonyms: Because of this, Due to that  
+
+→ He was late. Because of that, we missed the bus.  
+(Anh ấy trễ nên lỡ xe)
+
+→ She was sick. Because of this, she stayed home.  
+(Cô ấy bệnh nên ở nhà)
+
+→ The event was canceled due to that issue.  
+(Sự kiện bị hủy do vấn đề đó)
+
+---
+
+9. That's why – Đó là lý do tại sao  
+Synonyms: That is why, Hence  
+
+→ I love English. That's why I practice daily.  
+(Tôi thích tiếng Anh nên luyện mỗi ngày)
+
+→ He was tired. That is why he left early.  
+(Anh ấy mệt nên về sớm)
+
+→ The system failed; hence, we restarted it.  
+(Hệ thống lỗi nên chúng tôi restart)
+
+---
+
+10. Basically – Nói chung là  
+Synonyms: In general, Essentially  
+
+→ Basically, we need more time.  
+(Nói chung là cần thêm thời gian)
+
+→ In general, people prefer convenience.  
+(Nhìn chung mọi người thích tiện lợi)
+
+→ Essentially, the idea is simple.  
+(Về cơ bản, ý tưởng rất đơn giản)
+
+---
+
+## ⭐ Tier 2 – Common connectors
 
 11. However – Tuy nhiên  
-→ I wanted to go out. However, it started raining. (Tôi muốn ra ngoài, tuy nhiên trời mưa)
+Synonyms: Nevertheless, Nonetheless  
+
+→ I tried. However, I failed.  
+(Tôi đã thử, nhưng thất bại)
+
+→ It was difficult. Nevertheless, we continued.  
+(Nó khó nhưng vẫn tiếp tục)
+
+→ He was tired. Nonetheless, he kept working.  
+(Anh ấy mệt nhưng vẫn làm)
+
+---
 
 12. But – Nhưng  
-→ I tried my best, but I failed. (Tôi đã cố hết sức nhưng vẫn thất bại)
+Synonyms: Yet, Still  
+
+→ I want to go, but I’m busy.  
+(Tôi muốn đi nhưng bận)
+
+→ It’s risky, yet worth trying.  
+(Nó rủi ro nhưng đáng thử)
+
+→ It’s hard. Still, I won’t give up.  
+(Nó khó nhưng tôi không bỏ cuộc)
+
+---
 
 13. Also – Cũng  
-→ She is smart and also very kind. (Cô ấy thông minh và cũng rất tốt bụng)
+Synonyms: As well, Too  
+
+→ She is smart and also kind.  
+(Cô ấy thông minh và cũng tốt)
+
+→ He is talented as well.  
+(Anh ấy cũng tài năng)
+
+→ I like it too.  
+(Tôi cũng thích)
+
+---
 
 14. And – Và  
-→ I bought some food and drinks. (Tôi mua đồ ăn và nước uống)
+Synonyms: Plus, As well as  
+
+→ I bought food and drinks.  
+(Tôi mua đồ ăn và nước)
+
+→ It’s cheap plus good quality.  
+(Nó rẻ và còn chất lượng)
+
+→ He is smart as well as hardworking.  
+(Anh ấy thông minh và chăm chỉ)
+
+---
 
 15. Or – Hoặc  
-→ You can stay here or go home. (Bạn có thể ở đây hoặc về nhà)
+Synonyms: Otherwise  
+
+→ Hurry up, or you’ll be late.  
+(Nhanh lên không thì trễ)
+
+→ Study hard, otherwise you will fail.  
+(Học chăm không thì rớt)
+
+---
 
 16. On the other hand – Mặt khác  
-→ This job pays well. On the other hand, it's stressful. (Công việc này lương cao, nhưng mặt khác khá stress)
+Synonyms: Conversely, In contrast  
 
-17. Or the other way around – Hay là ngược lại  
-→ You can start with theory or the other way around. (Bạn có thể bắt đầu với lý thuyết hoặc ngược lại)
+→ This job pays well. On the other hand, it's stressful.  
+(Công việc lương cao nhưng stress)
 
-18. In addition – Ngoài ra  
-→ In addition, you should practice speaking daily. (Ngoài ra, bạn nên luyện nói mỗi ngày)
+→ He is lazy. Conversely, his brother is hardworking.  
+(Anh ta lười, ngược lại em trai chăm)
 
-19. Besides – Bên cạnh đó  
-→ Besides studying, I also work part-time. (Ngoài việc học, tôi còn làm thêm)
-
-20. Not only... but also – Không chỉ... mà còn  
-→ He is not only talented but also hardworking. (Anh ấy không chỉ tài năng mà còn chăm chỉ)
+→ She is quiet. In contrast, he is talkative.  
+(Cô ấy ít nói, trái lại anh kia nói nhiều)
 
 ---
 
-## ⭐️ Tier 3 – Clarifying & explaining
+17. In addition – Ngoài ra  
+Synonyms: Additionally, Furthermore  
 
-21. In other words – Nói cách khác  
-→ He is broke. In other words, he has no money. (Anh ấy hết tiền, nói cách khác là không có tiền)
+→ In addition, you should practice daily.  
+(Ngoài ra nên luyện mỗi ngày)
 
-22. That means – Điều đó có nghĩa là  
-→ You passed. That means you did well. (Bạn đậu rồi, nghĩa là bạn làm tốt)
+→ Additionally, we need more data.  
+(Thêm nữa cần thêm dữ liệu)
 
-23. To be more specific – Cụ thể hơn  
-→ I like sports, to be more specific, football. (Tôi thích thể thao, cụ thể là bóng đá)
-
-24. Basically – Nói chung là  
-→ Basically, we need more time. (Nói chung là chúng ta cần thêm thời gian)
-
-25. Actually – Thực ra là  
-→ Actually, I don’t agree with you. (Thực ra tôi không đồng ý)
-
-26. I mean – Ý tôi là  
-→ He is lazy, I mean, he never finishes tasks. (Anh ta lười, ý tôi là không bao giờ xong việc)
-
-27. Let me explain – Để tôi giải thích  
-→ Let me explain how this works. (Để tôi giải thích cách hoạt động)
-
-28. The point is – Vấn đề là  
-→ The point is, we don’t have enough resources. (Vấn đề là chúng ta không đủ tài nguyên)
-
-29. What I’m trying to say is – Điều tôi muốn nói là  
-→ What I’m trying to say is, we need a better plan. (Điều tôi muốn nói là cần kế hoạch tốt hơn)
+→ Furthermore, this method is effective.  
+(Hơn nữa phương pháp này hiệu quả)
 
 ---
 
-## ⭐️ Tier 4 – Adding ideas
+18. Besides – Bên cạnh đó  
+Synonyms: Apart from that, Other than that  
 
-30. Furthermore – Hơn nữa  
-→ The product is cheap. Furthermore, it’s high quality. (Sản phẩm rẻ, hơn nữa còn chất lượng)
+→ Besides studying, I work part-time.  
+(Ngoài học tôi còn làm thêm)
 
-31. Moreover – Thêm vào đó  
-→ He is skilled. Moreover, he is experienced. (Anh ấy có kỹ năng, thêm nữa còn có kinh nghiệm)
+→ Apart from that, everything is fine.  
+(Ngoài ra thì mọi thứ ổn)
 
-32. What's more – Hơn nữa  
-→ It’s easy to use. What’s more, it’s free. (Nó dễ dùng, hơn nữa còn miễn phí)
-
-33. Not to mention – Chưa kể đến  
-→ The trip was fun, not to mention affordable. (Chuyến đi vui, chưa kể còn rẻ)
-
-34. On top of that – Thêm vào đó nữa  
-→ He works hard. On top of that, he learns fast. (Anh ấy chăm chỉ, thêm nữa học nhanh)
+→ Other than that, no issues.  
+(Ngoài ra không vấn đề gì)
 
 ---
 
-## ⭐️ Tier 5 – Contrast & comparison
+19. Not only... but also – Không chỉ... mà còn  
+Synonyms: As well as  
 
-35. Even though – Mặc dù  
-→ Even though it was raining, we went out. (Dù mưa nhưng vẫn đi)
+→ He is not only smart but also hardworking.  
+(Anh ấy không chỉ giỏi mà còn chăm)
 
-36. Although – Dù rằng  
-→ Although he is young, he is very mature. (Dù trẻ nhưng rất trưởng thành)
-
-37. Whereas – Trong khi đó  
-→ She likes coffee, whereas I prefer tea. (Cô ấy thích cà phê, còn tôi thích trà)
-
-38. While – Trong khi  
-→ While I agree, I still have concerns. (Dù tôi đồng ý nhưng vẫn lo ngại)
-
-39. In contrast – Trái lại  
-→ He is quiet. In contrast, his brother is very talkative. (Anh ấy ít nói, trái lại em trai rất nói nhiều)
-
-40. Compared to – So với  
-→ Compared to last year, this year is better. (So với năm ngoái, năm nay tốt hơn)
+→ He is talented as well as disciplined.  
+(Anh ấy tài năng và kỷ luật)
 
 ---
 
-## ⭐️ Tier 6 – Cause & effect
+20. Anyway – Dù sao đi nữa  
+Synonyms: Regardless, In any case  
 
-41. Because – Bởi vì  
-→ I stayed home because I was sick. (Tôi ở nhà vì bị bệnh)
+→ Anyway, let’s continue.  
+(Dù sao thì tiếp tục)
 
-42. Since – Vì  
-→ Since it’s late, let’s go home. (Vì muộn rồi nên về)
+→ Regardless, we must finish it.  
+(Dù sao cũng phải làm xong)
 
-43. Therefore – Do đó  
-→ He didn’t prepare. Therefore, he failed. (Anh ấy không chuẩn bị nên thất bại)
-
-44. Thus – Vì vậy  
-→ The system crashed, thus causing delays. (Hệ thống sập nên gây trì hoãn)
-
-45. Due to – Do  
-→ The match was canceled due to rain. (Trận đấu bị hủy do mưa)
-
----
-
-## ⭐️ Tier 7 – Sequence & structure
-
-46. First of all – Trước hết  
-→ First of all, we need a clear goal. (Trước hết cần mục tiêu rõ ràng)
-
-47. Then – Sau đó  
-→ Finish your work, then take a break. (Xong việc rồi nghỉ)
-
-48. After that – Sau đó  
-→ We had dinner, after that we watched a movie. (Ăn xong rồi xem phim)
-
-49. Finally – Cuối cùng  
-→ Finally, we reached our destination. (Cuối cùng cũng đến nơi)
-
-50. In conclusion – Kết luận lại  
-→ In conclusion, this plan is effective. (Kết luận là kế hoạch này hiệu quả)
+→ In any case, I’ll support you.  
+(Trong mọi trường hợp tôi sẽ hỗ trợ)
